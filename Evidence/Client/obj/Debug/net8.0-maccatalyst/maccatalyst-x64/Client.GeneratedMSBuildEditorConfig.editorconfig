@@ -1,0 +1,67 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Client
+build_property.ProjectDir = E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[E:/GitHub/Exam-9/Final-9/MAUI_Final_Evidence/Evidence/Client/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Client.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[E:/GitHub/Exam-9/Final-9/MAUI_Final_Evidence/Evidence/Client/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Client.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[E:/GitHub/Exam-9/Final-9/MAUI_Final_Evidence/Evidence/Client/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Client.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[E:/GitHub/Exam-9/Final-9/MAUI_Final_Evidence/Evidence/Client/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Client.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[E:/GitHub/Exam-9/Final-9/MAUI_Final_Evidence/Evidence/Client/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Client.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[E:/GitHub/Exam-9/Final-9/MAUI_Final_Evidence/Evidence/Client/StudentCreatePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Client.StudentCreatePage.xaml
+build_metadata.AdditionalFiles.TargetPath = StudentCreatePage.xaml
+build_metadata.AdditionalFiles.RelativePath = StudentCreatePage.xaml
+
+[E:/GitHub/Exam-9/Final-9/MAUI_Final_Evidence/Evidence/Client/StudentListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Client.StudentListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = StudentListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = StudentListPage.xaml
+
+[E:/GitHub/Exam-9/Final-9/MAUI_Final_Evidence/Evidence/Client/StudentUpdatePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Client.StudentUpdatePage.xaml
+build_metadata.AdditionalFiles.TargetPath = StudentUpdatePage.xaml
+build_metadata.AdditionalFiles.RelativePath = StudentUpdatePage.xaml

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Client.StudentUpdatePage"
+             Title="Student Update Page">
+    <ScrollView>
+        <VerticalStackLayout Padding="20">
+            <Image Source="{Binding PickedImageSource}" HeightRequest="100" WidthRequest="100" Aspect="AspectFit"/>
+            <Button Text="Update Image" Clicked="OnUploadImageClicked" />
+            <Entry x:Name="NameEntry" Text="{Binding Name}" Placeholder="Name"/>
+            <Label Text="Admission Date" />
+            <DatePicker x:Name="AdmissionDatePicker" Date="{Binding AdmissionDate}" />
+            <Label Text="Is Active" />
+            <CheckBox x:Name="IsActiveCheckBox" IsChecked="{Binding IsActive}" />
+            <Label Text="Addresses" />
+            <Entry x:Name="CityEntry"  Placeholder="Enter City"/>
+            <Entry x:Name="StreetEntry"  Placeholder="Enter Street"/>
+            <Button Text="Add Address" Clicked="OnAddAddressClicked" />
+            <ListView x:Name="AddressesListView" ItemsSource="{Binding AddressList}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid ColumnDefinitions="*, *, Auto">
+                                <Entry Grid.Column="0" Placeholder="Street" Text="{Binding Street}" />
+                                <Entry Grid.Column="1" Placeholder="City" Text="{Binding City}" />
+                                <Button Grid.Column="2" Text="Remove" Clicked="OnRemoveAddressClicked" CommandParameter="{Binding .}" />
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Text="Update" Clicked="OnUpdateStudentClicked" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,1 @@
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Client\Client.csproj;x64

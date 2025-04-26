@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Client.StudentCreatePage"
+             Title="Student Create Page">
+    <VerticalStackLayout>
+        <Entry x:Name="NameEntry" Placeholder="Enter Name"/>
+        <Label Text="Admission Date :"/>
+        <DatePicker x:Name="AdmissionDatePicker"/>
+        <Label Text="Is Active ?"/>
+        <CheckBox x:Name="IsActiveCheckBox"/>
+        <Entry x:Name="AddressCityEntry" Placeholder="Enter City"/>
+        <Entry x:Name="AddressStreetEntry" Placeholder="Enter Street"/>
+        <Button Text="Add Address" Clicked="OnAddAddressClicked"/>
+        <Label Text="Addresses :" FontSize="Medium"/>
+        <ListView ItemsSource="{Binding AddressList}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="{Binding Street}"/>
+                            <Label Text=","/>
+                            <Label Text="{Binding City}"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Text="Upload Image" Clicked="OnUploadImageClicked"/>
+        <Image Source="{Binding PickedImageSource}" HeightRequest="100" WidthRequest="100" Aspect="AspectFit"/>
+        <Button Text="Add Student" Clicked="OnAddStudentClicked"/>
+    </VerticalStackLayout>
+</ContentPage>

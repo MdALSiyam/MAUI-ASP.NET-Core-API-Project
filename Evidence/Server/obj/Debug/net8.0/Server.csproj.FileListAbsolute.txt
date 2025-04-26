@@ -1,0 +1,424 @@
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\Server.sourcelink.json
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Server.staticwebassets.endpoints.json
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Server.exe
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Server.deps.json
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Server.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Server.pdb
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Humanizer.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets\msbuild.build.Server.props
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\Server.csproj.Up2Date
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\Server.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\refint\Server.dll
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\Server.pdb
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\Users\user\Desktop\Final-9\April25\Evidence\Server\obj\Debug\net8.0\ref\Server.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\appsettings.json
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Server.staticwebassets.endpoints.json
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Server.exe
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Server.deps.json
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Server.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Server.pdb
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Humanizer.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets\msbuild.build.Server.props
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\Server.csproj.Up2Date
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\Server.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\refint\Server.dll
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\Server.pdb
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\Users\SCSL Lab 2\Downloads\MAUI\April25\Evidence\Server\obj\Debug\net8.0\ref\Server.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\appsettings.Development.json
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\appsettings.json
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Server.staticwebassets.endpoints.json
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Server.exe
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Server.deps.json
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Server.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Server.pdb
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Azure.Core.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Azure.Identity.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Humanizer.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\System.CodeDom.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\System.Memory.Data.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\Server.csproj.AssemblyReference.cache
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cs
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\Server.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\scopedcss\bundle\Server.styles.css
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\staticwebassets.build.json
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\staticwebassets.development.json
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\staticwebassets\msbuild.build.Server.props
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server.props
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\staticwebassets.pack.json
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\Server.csproj.Up2Date
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\Server.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\refint\Server.dll
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\Server.pdb
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+E:\GitHub\Exam-9\Final-9\MAUI_Final_Evidence\Evidence\Server\obj\Debug\net8.0\ref\Server.dll
