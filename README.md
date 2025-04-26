@@ -2,7 +2,7 @@
 
 ![MAUI 2](Outputs/maui1.png)
 ![MAUI 1](Outputs/maui2.png)
-![MAUI 3](Outputs/maui3.png)
+
 ![MAUI 4](Outputs/maui4.png)
 ![MAUI 5](Outputs/maui5.png)
 ![MAUI 6](Outputs/maui6.png)
