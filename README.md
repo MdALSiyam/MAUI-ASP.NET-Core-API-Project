@@ -1,0 +1,16 @@
+## 📸 Project Outputs
+
+![MAUI 2](Outputs/maui1.png)
+![MAUI 1](Outputs/maui2.png)
+![MAUI 3](Outputs/maui3.png)
+![MAUI 4](Outputs/maui4.png)
+![MAUI 5](Outputs/maui5.png)
+![MAUI 6](Outputs/maui6.png)
+![MAUI 7](Outputs/maui7.png)
+![MAUI 8](Outputs/maui8.png)
+![MAUI 9](Outputs/maui9.png)
+![MAUI 10](Outputs/maui10.png)
+![MAUI 11](Outputs/maui11.png)
+![MAUI 12](Outputs/maui12.png)
+![MAUI 13](Outputs/maui13.png)
+![MAUI 14](Outputs/maui14.png)
